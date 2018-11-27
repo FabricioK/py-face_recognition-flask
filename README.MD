@@ -1,0 +1,1 @@
+Imagem base para reconhecimento facial via Python utilizando Flask como servidor de acesso
